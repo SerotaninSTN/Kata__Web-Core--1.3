@@ -171,7 +171,6 @@ display: flex;
 
 }
 .page-main__navigacia{
-  position: relative;
   display: flex;
   justify-content: flex-start;
   overflow: scroll;
