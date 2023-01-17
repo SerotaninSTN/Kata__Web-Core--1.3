@@ -258,6 +258,7 @@ display: flex;
    cursor: pointer;
  }
 .page-main--img {
+ background-image: url(img/foto.png);
   margin-top: 16px;
       width: 100%;
       background-size: 100%;
