@@ -57,7 +57,8 @@ display: flex;
   margin-right: 20px;
   width: 2px;
   height: 32px;
-  background-image: url(./img/divider.svg);
+  border-radius: 1px;
+  background-color: #EAEAEA;
   flex-shrink: 0;
 } 
 .page-header__logo {
